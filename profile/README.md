@@ -11,5 +11,5 @@
 - Etude de cas: Système de vente de billets de concert ([énoncé](https://github.com/pdl-classroom/uml-concert-enonce), [corrigé](https://github.com/pdl-classroom/uml-concert-corrige))
 - Diagramme d'activités: Location de voiture ([énoncé](https://github.com/pdl-classroom/uml-activite-location-voiture-enonce), [corrigé](https://github.com/pdl-classroom/uml-activite-location-voiture-corrige))
 - Diagramme de machine à états: Ascenseur ([énoncé](https://github.com/pdl-classroom/uml-machine-etats-ascenseur-enonce), [corrigé](https://github.com/pdl-classroom/uml-machine-etats-ascenseur-corrige))
-- Processus de développement: Dispositif IoT ([énoncé](https://github.com/pdl-classroom/processus-developpement-dispositif-iot-enonce), [corrigé](https://github.com/pdl-classroom/processus-developpement-dispositif-iot-corrige))
+- Processus de développement: Dispositif IoT ([énoncé](https://github.com/pdl-classroom/processus-de-developpement))
 
