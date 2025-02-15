@@ -1,8 +1,9 @@
 ## Processus de Développement Logiciel (PDL)
 
-### 2024
+### 2025
 
 - Introduction à git ([énoncé](https://github.com/pdl-classroom/introduction))
+<!--
 - Diagramme de classes: Vrai/Faux ([énoncé](https://github.com/pdl-classroom/uml-classe-vrai-faux-enonce), [corrigé](https://github.com/pdl-classroom/uml-classe-vrai-faux-corrige))
 - Diagramme de classes: Haute école ([énoncé](https://github.com/pdl-classroom/uml-classe-haute-ecole-enonce), [corrigé](https://github.com/pdl-classroom/uml-classe-haute-ecole-corrige))
 - Diagramme use case: Vrai/Faux ([énoncé](https://github.com/pdl-classroom/uml-usecase-vrai-faux-enonce), [corrigé](https://github.com/pdl-classroom/uml-usecase-vrai-faux-corrige))
@@ -13,4 +14,4 @@
 - Diagramme de machine à états: Ascenseur ([énoncé](https://github.com/pdl-classroom/uml-machine-etats-ascenseur-enonce), [corrigé](https://github.com/pdl-classroom/uml-machine-etats-ascenseur-corrige))
 - Processus de développement: Dispositif IoT ([énoncé](https://github.com/pdl-classroom/processus-de-developpement))
 - Refactoring ([énoncé](https://classroom.github.com/a/Z6n7fO-X))
-
+-->
